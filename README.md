@@ -1,2 +1,4 @@
 # parse_pbzx
-PBZX parser
+PBZX parser. Uploading legacy project for completeness
+
+Project status: incomplete
